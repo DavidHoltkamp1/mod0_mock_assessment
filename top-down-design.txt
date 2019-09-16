@@ -1,0 +1,39 @@
+Make a sandwich
+1 Add Bread
+  1.1 Put on counter
+    1.1.1 Retrieve from fridge
+    1.1.2 Open fridge
+    1.1.3 Walk to fridge
+  1.2 Cut bread in sandwich slices
+    1.2.1 Grab knife
+    1.2.2 Open drawer
+    1.2.3 Walk to drawer
+  1.3 Toast bread
+    1.3.1 Put in toaster
+    1.3.2 Plug in toaster
+    1.3.3 Retrieve toaster from cabinet
+  1.4 Stack bread to create sandwich
+  1.5 Cut in half
+2 Add Veggie Patty
+  2.1 Put fried veggie patty on Bread
+  2.2 Pan fry
+  2.3 Form patty
+  2.4 Get veggie batter out of fridge
+3 Add Vegetables
+  3.1 Add lettuce
+    3.1.1 Chop lettuce
+    3.1.2 Wash lettuce
+    3.1.3 Retrieve lettuce from fridge
+  3.2 Add tomato
+    3.2.1 Slice tomato
+    3.2.2 Wash tomoato
+    3.2.3 Retrieve tomato from fruit bowl
+  3.3 Add onion
+    3.3.1 Slice onion in sandwich slices
+    3.3.2 Half the onion
+    3.3.3 Peel the onion
+    3.3.4 Retrieve from cupboard
+4 Add Sauce
+  4.1 Apply to bread
+  4.2 Get bbq out of fridge 
+  4.3 Get mustard out of fridge
