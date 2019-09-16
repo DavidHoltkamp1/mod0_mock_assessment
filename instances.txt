@@ -1,0 +1,21 @@
+Class: Plant
+
+Instance: Kale
+
+Attributes:
+color: "green"
+edible: true
+
+Methods:
+increaseSunExposure (change color)
+chewKale (prove edible)
+
+Instance: Fiddle-leaf fig
+
+Attributes:
+height: "4 feet"
+potSize: 5 gallon
+
+Methods:
+increaseSunExposure (change height)
+changePot (increase pot size)
