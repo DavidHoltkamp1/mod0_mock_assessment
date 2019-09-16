@@ -1,0 +1,17 @@
+Class: Plant
+
+Attributes:
+color (string)
+height (float)
+potSize (integer)
+edible (boolean)
+sunReceived (float)
+waterDemand (integer)
+plantOwner (string)
+
+Methods:
+changePot (increases pot size by 1)
+changeOwner (changes plantOwner)
+movePlant (changes waterDemand)
+increaseSunExposure (changes height)
+decreaseWaterReceived (changes color)
